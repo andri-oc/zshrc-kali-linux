@@ -1,4 +1,4 @@
-# zshrc-kali-linux-
+# zshrc-kali-linux
 kali linux terminal theme
 
 <img src="foto1.png">
